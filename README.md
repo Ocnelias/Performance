@@ -16,7 +16,7 @@ Features:
 
 1. git clone https://github.com/Ocnelias/Performance.git
 2. composer self-update
-3. composer global require "fxp/composer-asset-plugin:~1.1.1"
+3. composer global require "fxp/composer-asset-plugin:^1.2.0"
 4. cd performance
 5. composer install
 
