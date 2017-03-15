@@ -5,12 +5,13 @@ This is an example application for viewing and managing performances by artists 
 
 Features:
 
--Viewing performances
--Viewing list of artists
--Viewing list of concert halls
+-Viewing performances <br/>
+-Viewing list of artists <br/>
+-Viewing list of concert halls <br/>
 
--Restricted admin area to create and edit performances artists and concert places.
+-Restricted admin area to create and edit performances, artists, and concert places.
 
+Use  login <small> perfromance </small> and password <small> perfromance </small> to enter administrative panel.
 
 <h2> Installation </h2>
 
