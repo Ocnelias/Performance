@@ -11,7 +11,7 @@ Features:
 
 -Restricted admin area to create and edit performances, artists, and concert places.
 
-Use  login <small> perfromance </small> and password <small> perfromance </small> to enter administrative panel.
+Use  login <b> performance </b> and password <b> performance </b> to enter administrative panel.
 
 <h2> Installation </h2>
 
